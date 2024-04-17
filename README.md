@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Louchelle
-- ✨ I am 21 years old
+- ✨ I am a passionate software engineer
 - ✨ I succesfully completed my software engineering bootcamp at Hyperiondev in November 2022.
 - ✨ I graduated with an average of 98%.
 - LINKEDIN: https://www.linkedin.com/in/louchellebrand019/
-- Celphone: 081 016 3832
+- Celphone: 084 614 0580
 - Email: louchelle3218@gmail.com
 
 <!---
