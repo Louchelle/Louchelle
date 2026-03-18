@@ -1,4 +1,4 @@
-<img src="headshot.jpg" width="150" align="right" />
+<img src="https://github.com/user-attachments/assets/19d4d11b-7644-40af-ae43-c46ee7d4a9a1" width="150" align="right" />
 👋 Hi, I'm Louchelle!
 Software Engineer | HyperionDev Alumna | Aspiring Technical Facilitator
 
@@ -11,7 +11,7 @@ Real-time Concurrency: Managing WebSocket streams without UI lag.
 
 System Resilience: Engineering "Fail-Safe" logic for volatile market data.
 
-Educational Mentorship: I maintain a transparent [Project Roadmap] to demonstrate my ability to document and teach complex code.
+Educational Mentorship: I maintain a transparent [Project Roadmap](https://github.com/users/Louchelle/projects/1) to demonstrate my ability to document and teach complex code.
 
 🛠️ Technical Toolkit
 Languages: Python (Advanced), SQL
