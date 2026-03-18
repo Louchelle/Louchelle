@@ -1,3 +1,4 @@
+<img src="headshot.jpg" width="150" align="right" />
 👋 Hi, I'm Louchelle!
 Software Engineer | HyperionDev Alumna | Aspiring Technical Facilitator
 
