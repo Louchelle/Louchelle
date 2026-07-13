@@ -1,4 +1,5 @@
 <img src="https://github.com/user-attachments/assets/19d4d11b-7644-40af-ae43-c46ee7d4a9a1" width="150" align="right" />
+
 👋 Hi, I'm Louchelle! Software Engineer | Full-SDLC Backend Specialist
 
 I am an analytical Python and Java developer dedicated to building resilient, secure, and real-time backend automation systems. With a strong foundation in Object-Oriented Programming (OOP) and cloud infrastructure, I take projects from initial architectural design through to secure cloud deployment and production monitoring. I specialize in concurrency, multi-strategy data pipelines, and secure cloud API integrations.
