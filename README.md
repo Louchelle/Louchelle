@@ -17,4 +17,3 @@ I architected a high-performance trading engine utilizing real-time REST and Web
 
 📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/louchellebrand019
-📂 Portfolio: https://louchelle-brand-portfolio.webflow.io/
