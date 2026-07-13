@@ -7,6 +7,7 @@ I am an analytical Python and Java developer dedicated to building resilient, se
 > 🛠️ **Portfolio Note:** As an independent developer managing proprietary execution systems, my daily development, version testing, and backups are maintained entirely within a secure local environment. This public GitHub profile serves as a curated showcase of finalized production code and architectural patterns for engineering review, rather than an active daily workspace.
 
 🚀 Featured Project: Automated Algorithmic Trading Bot & Cloud Systems Hub
+
 I independently engineered a high-performance Python application, managing the full Software Development Life Cycle (SDLC) to process real-time financial market streams and execute algorithmic trading strategies concurrently. 
 
 This project demonstrates full ownership across the entire SDLC:
