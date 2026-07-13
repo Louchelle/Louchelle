@@ -4,6 +4,8 @@
 
 I am an analytical Python and Java developer dedicated to building resilient, secure, and real-time backend automation systems. With a strong foundation in Object-Oriented Programming (OOP) and cloud infrastructure, I take projects from initial architectural design through to secure cloud deployment and production monitoring. I specialize in concurrency, multi-strategy data pipelines, and secure cloud API integrations.
 
+> 🛠️ **Portfolio Note:** As an independent developer managing proprietary execution systems, my daily development, version testing, and backups are maintained entirely within a secure local environment. This public GitHub profile serves as a curated showcase of finalized production code and architectural patterns for engineering review, rather than an active daily workspace.
+
 🚀 Featured Project: Automated Algorithmic Trading Bot & Cloud Systems Hub
 I independently engineered a high-performance Python application, managing the full Software Development Life Cycle (SDLC) to process real-time financial market streams and execute algorithmic trading strategies concurrently. 
 
