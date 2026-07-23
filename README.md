@@ -1,6 +1,7 @@
 <img src="https://github.com/user-attachments/assets/19d4d11b-7644-40af-ae43-c46ee7d4a9a1" width="150" align="right" />
 
-👋 Hi, I'm Louchelle! Software Engineer | Full-SDLC Backend Specialist
+👋 Hi, I'm Louchelle! AI-Native Software Engineer | Full-SDLC Backend Specialist
+Formally qualified Software Engineer (HyperionDev NQF Level 5, 98% aggregate). I build resilient, multi-threaded backend systems and cloud infrastructure in Python and Java, leveraging AI co-pilots (ChatGPT/Gemini) to accelerate architectural design, system strategy, and complex debugging.
 
 I am an analytical Python and Java developer dedicated to building resilient, secure, and real-time backend automation systems. With a strong foundation in Object-Oriented Programming (OOP) and cloud infrastructure, I take projects from initial architectural design through to secure cloud deployment and production monitoring. I specialize in concurrency, multi-strategy data pipelines, and secure cloud API integrations.
 
@@ -22,6 +23,7 @@ This project demonstrates full ownership across the entire SDLC:
 - **Cloud & Infrastructure:** Google Cloud Platform (GCP Console), Compute Engine (VMs), Linux Administration (VNC, Chrome Remote Desktop), systemd automation
 - **Networking & Security:** VPC Firewall Rules, Port Security, Secure API Authentication
 - **Frameworks & Core Concepts:** Full Software Development Life Cycle (SDLC), Architecture Design, Quantitative Strategy Architecture, Multi-threading, Automated QA Testing, WebSockets & RESTful APIs
+- **AI & Workflow:** AI-Assisted Engineering (ChatGPT / Gemini), Prompt Engineering, Architectural Strategy, Systems Troubleshooting & Code Refactoring
 
 📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/louchellebrand019
