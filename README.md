@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Louchelle! AI-Native Software Engineer | Full-SDLC Backend Specialist
 
-Formally qualified Software Engineer (HyperionDev NQF Level 5, 98% aggregate score). I build resilient, multi-threaded backend systems, data pipelines, and cloud infrastructure in Python and Java—leveraging ChatGPT and Gemini as high-speed engineering co-pilots across architectural planning, system strategy, and code refactoring.
+Formally qualified Software Engineer (HyperionDev 98% average score). I build resilient, multi-threaded backend systems, data pipelines, and cloud infrastructure in Python and Java—leveraging ChatGPT and Gemini as high-speed engineering co-pilots across architectural planning, system strategy, and code refactoring.
 
 🛠️ Portfolio Note: As an independent developer managing proprietary execution systems, my daily development, version testing, and backups are maintained entirely within a secure local environment. This public GitHub profile serves as a curated showcase of finalized production code and architectural patterns for engineering review, rather than an active daily workspace.
 
