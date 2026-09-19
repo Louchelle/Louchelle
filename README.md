@@ -17,7 +17,7 @@ This project demonstrates full ownership across the entire SDLC:
 - DevOps, Security & Cloud Deployment: Fully deployed and managed the system on virtualized Linux instances via Google Cloud Platform (GCP), automating execution with systemd background services and configuring custom VPC firewall rules for secure network port management.
 
 🛠️ Technical Toolkit
-- Languages: Python, Java, SQL, JavaScript, HTML5/CSS3
+- Languages: Python, Java, SQL, JavaScript, HTML, CSS
 - AI & Workflow: AI-Assisted Engineering (ChatGPT / Gemini), Prompt Engineering, Architectural Strategy, Systems Troubleshooting & Code Refactoring
 - Cloud & Infrastructure: Google Cloud Platform (GCP Console), Compute Engine (VMs), Linux Administration (VNC, Chrome Remote Desktop), systemd automation
 - Networking & Security: VPC Firewall Rules, Port Security, Secure API Authentication
